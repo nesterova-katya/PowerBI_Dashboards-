@@ -16,4 +16,6 @@
 
 ▌Скриншоты дашбордов:
 
-[Ключевые показатели (KPI)](https://github.com/nesterova-katya/PowerBI_Dashboards-/edit/main/CollectionAgency/images/KPI.jpg) 
+  ![Ключевые показатели (KPI)](images/KPI.jpg)
+  
+
